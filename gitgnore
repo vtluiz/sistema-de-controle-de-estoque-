@@ -1,0 +1,7 @@
+# Ignora arquivos temporários, logs e credenciais sensíveis
+*.log
+*.sql~
+*.tmp
+.env
+node_modules/
+.DS_Store
